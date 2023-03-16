@@ -1,7 +1,8 @@
 # Fifa-WC-2022
 Analysis of the Fifa world cup 2022
 
-#Context
+# Context
+
 The FIFA World Cup, often simply called the World Cup, is an international association football competition contested by the senior men's national teams of the members of the Federation International Football Association (FIFA), the sport's global governing body. The tournament has been held every four years since the inaugural tournament in 1930, except in 1942 and 1946 when it was not held because of the Second World War. The reigning champions are Argentina, who won their third title at the 2022 tournament.
 
 Organizing body: FIFA
