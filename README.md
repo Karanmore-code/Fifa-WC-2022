@@ -11,4 +11,4 @@ Region: International
 Number of teams: 32 (48 from 2026)
 Current champions: Argentina (3rd title) (2022)
 
-The format involves a qualification phase, which takes place over the preceding three years, to determine which teams qualify for the tournament phase. In the tournament phase, 32 teams compete for the title at venues within the host nation(s) over about a month. The host nation(s) automatically qualify to the group stage of the tournament. The FIFA World Cup has been scheduled to expand to 48 teams for the 2026 tournament.
+The format involves a qualification phase, which takes place over the preceding three years, to determine which teams qualify for the tournament phase. In the tournament phase, 32 teams compete for the title at venues within the host nation(s) over about a month. The host nation(s) automatically qualify to the group stage of the tournament. The FIFA World Cup has been scheduled to expand to 48 teams for the 2026 tournament..
